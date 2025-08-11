@@ -1,5 +1,4 @@
-// Xây dựng phương thức tìm kiếm sách theo tên cho lớp Library đã được định nghĩa.
-// Khi tìm kiếm thì in ra tất cả các quyển sách đã được tìm thấy ra màn hình.
+
 class Book2 {
     private title: string;
     private author: string;
